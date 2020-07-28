@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/logo.png" alt="Hero image">
 </center>
 <hr>
-<p>Hello my name is <b>Aguel Satria Wijaya</b>. In the internet you can know me as <b>LERUfic</b> or <b>iMBack</b>.  But usually I go with LERUfic as my main internate name.</p>
+<p align="center">Hello my name is <b>Aguel Satria Wijaya</b>. In the internet you can know me as <b>LERUfic</b> or <b>iMBack</b>.  But usually I go with LERUfic as my main internate name.</p>
 <br />
 <p align="center">
 <a href="https://facebook.com/aguelsatria" alt="Facebook"><img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/assets/facebook-box-fill.svg"> Facebook</a>
@@ -25,6 +25,7 @@ I like programming since 2nd grade junior high school where I created simple ant
 
 <details>
   <summary>The things that interest me:</summary>
+  <br />
   <ul>
     <li>Docker</li>
     <li>Kubernetes</li>
@@ -37,6 +38,7 @@ I like programming since 2nd grade junior high school where I created simple ant
 
 <details>
   <summary>Projects</summary>
+  <br />
   <ul>
     <li>Fullstack Developer of PPDB Surabaya 2018</li>
     <li>Fullstack Developer of EVote Pemilihan Rektor Institut Teknologi Sepuluh Nopember 2019</li>
@@ -46,6 +48,7 @@ I like programming since 2nd grade junior high school where I created simple ant
 
 <details>
   <summary>Intern</summary>
+  <br />
   <ul>
     <li>System Engineer Intern at DPTSI Institut Teknologi Sepuluh Nopember</li>
   </ul>
