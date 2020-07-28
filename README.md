@@ -1,9 +1,10 @@
 <center>
   <img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/logo.png" alt="Hero image">
 </center>
----
-Hello my name is **Aguel Satria Wijaya**. In the internet you can know me as **LERUfic** or **iMBack**.  But usually I go with LERUfic as my main internate name.  
 
+<hr>
+Hello my name is **Aguel Satria Wijaya**. In the internet you can know me as **LERUfic** or **iMBack**.  But usually I go with LERUfic as my main internate name.  
+<br />
 You can contact me via:
 <br />
 <a href="https://facebook.com/aguelsatria" alt="Facebook"><img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/assets/facebook-box-fill.svg"> Facebook</a> 
