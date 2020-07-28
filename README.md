@@ -1,6 +1,6 @@
-<center>
-  <img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/logo.png" alt="Hero image">
-</center>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/assets/logo-min.png" alt="Hero image">
+</p>
 <hr>
 <p align="center">Hello my name is <b>Aguel Satria Wijaya</b>. In the internet you can know me as <b>LERUfic</b> or <b>iMBack</b>.  But usually I go with LERUfic as my main internate name.</p>
 <br />
@@ -15,11 +15,8 @@
 <br />
 <details>
     <summary>History:</summary>
-<p>
-
-
-I like programming since 2nd grade junior high school where I created simple antivirus using md5 and created password manager. Those programs I created using visual basic 6.0. Then my friend introduced me with garuda OS. It's one of linus distro with built-in wine to run windows's programs. Then I learned linux using some books because in my country that time the internet is so pricey. Installing ubuntu from CD and tried a lot of things. In my high school I learned C and dual-booted my laptop with windows and ubuntu. In my last year of high school I am totally using linux (linux mint as my distro) until my 3rd year of college before switching to macOS (UNIX for life).
-
+<p align="center">
+I like programming since 2nd grade junior high school where I made simple antivirus using md5 and password manager. Those programs I created using visual basic 6.0. Later my friend introduced me with garuda OS. It's one of the linux distro with built-in wine to run windows's programs. Then I learned using linux from some books because in my country that time the internet is so pricey. Installing ubuntu from CD and tried a lot of things. And in my high school I learned C, pascal, html-php and tried dual-booted my laptop with windows and ubuntu. In my last year of high school I am totally using linux as my main OS (linux mint) until my 3rd year of college before switching to macOS (UNIX for life).
 </p>
 </details>
 
