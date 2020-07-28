@@ -4,19 +4,15 @@
 <hr>
 <p>Hello my name is <b>Aguel Satria Wijaya</b>. In the internet you can know me as <b>LERUfic</b> or <b>iMBack</b>.  But usually I go with LERUfic as my main internate name.</p>
 <br />
-You can contact me via:
+<p align="center">
+<a href="https://facebook.com/aguelsatria" alt="Facebook"><img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/assets/facebook-box-fill.svg"> Facebook</a>
+  |<a href="https://twitter.com/aguelsatria98" alt="Twitter"><img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/assets/twitter-fill.svg"> Twitter</a> 
+  | <a href="https://www.linkedin.com/in/aguelsatria/" alt="Linkedin"><img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/assets/linkedin-box-fill.svg"> Linkedin</a> 
+  | <a href="mailto:contact@aguelsatria.web.id" alt="Email"><img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/assets/mail-fill.svg"> Email</a> 
+  | <a href="https://aguelsatria.web.id" alt="My Website"><img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/assets/global-fill.svg">My Website</a> 
+</p>
 <br />
-<a href="https://facebook.com/aguelsatria" alt="Facebook"><img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/assets/facebook-box-fill.svg"> Facebook</a> 
 <br />
-<a href="https://twitter.com/aguelsatria98" alt="Twitter"><img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/assets/twitter-fill.svg"> Twitter</a>
-<br />
-<a href="https://www.linkedin.com/in/aguelsatria/" alt="Linkedin"><img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/assets/linkedin-box-fill.svg"> Linkedin</a>
-<br />
-<a href="mailto:contact@aguelsatria.web.id" alt="Email"><img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/assets/mail-fill.svg"> Email</a>
-<br />
-<a href="https://aguelsatria.web.id" alt="My Website"><img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/assets/global-fill.svg">My Website</a>
-<br />
-
 <details>
     <summary>History:</summary>
 <p>
