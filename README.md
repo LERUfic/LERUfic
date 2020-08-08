@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/assets/logo-min.png" alt="Hero image">
 </p>
 <hr>
-<p align="center">Hello my name is <b>Aguel Satria Wijaya</b>. In the internet you can know me as <b>LERUfic</b> or <b>iMBack</b>.  But usually I go with LERUfic as my main internate name.</p>
+<p align="center">Hello my name is <b>Aguel Satria Wijaya</b>. In the internet you can know me as <b>LERUfic</b> or <b>iMBack</b>.  But usually I go with LERUfic as my main internet name.</p>
 <br />
 <p align="center">
 <a href="https://facebook.com/aguelsatria" alt="Facebook"><img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/assets/facebook-box-fill.svg"> Facebook</a>
