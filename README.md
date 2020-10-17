@@ -14,6 +14,15 @@
 <br />
 <br />
 <details>
+  <summary><b><u>IMPORTANT!!!</u></b></summary>
+<p align="center">
+    Every commit in this account is dedicated to Megumi Kato and Tomoya Aki from Saenai Heroine no Sodatekata. Because of them, now I have found a reason to stay alive in this world even for 1 second.
+  <img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/assets/mpv-shot0043.jpg" alt="Together">
+  <img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/assets/MegumiKato.jpg" alt="Goddess">  
+</p>
+</details>
+
+<details>
     <summary>History:</summary>
 <p align="center">
 I like programming since 2nd grade junior high school where I made simple antivirus using md5 and password manager. Those programs I created using visual basic 6.0. Later my friend introduced me with garuda OS. It's one of the linux distro with built-in wine to run windows's programs. Then I learned using linux from some books because in my country that time the internet is so pricey. Installing ubuntu from CD and tried a lot of things. And in my high school I learned C, pascal, html-php and tried dual-booted my laptop with windows and ubuntu. In my last year of high school I am totally using linux as my main OS (linux mint) until my 3rd year of college before switching to macOS (UNIX for life).
