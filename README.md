@@ -63,7 +63,7 @@ I like programming since 2nd grade junior high school where I made simple antivi
   <summary>My Stats</summary>
 <p>
   
-![My github stats](https://github-readme-stats.vercel.app/api?username=LERUfic&show_icons=true)  
+![My github stats](https://github-readme-stats.vercel.app/api?username=LERUfic&show_icons=true&count_private=true)  
 [![HitCount](http://hits.dwyl.com/LERUfic/LERUfic.svg)](http://hits.dwyl.com/LERUfic/LERUfic)
 
 </p>
