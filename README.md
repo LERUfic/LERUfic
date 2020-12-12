@@ -63,8 +63,9 @@ I like programming since 2nd grade junior high school where I made simple antivi
   <summary>My Stats</summary>
 <p>
   
-![My github stats](https://github-readme-stats.vercel.app/api?username=LERUfic&show_icons=true&count_private=true&theme=synthwave)  
-[![HitCount](http://hits.dwyl.com/LERUfic/LERUfic.svg)](http://hits.dwyl.com/LERUfic/LERUfic)
+![My github stats](https://github-readme-stats.vercel.app/api?username=LERUfic&show_icons=true&count_private=true&theme=flag-india)  
+[![HitCount](http://hits.dwyl.com/LERUfic/LERUfic.svg)](http://hits.dwyl.com/LERUfic/LERUfic)  
+![ViewCount](https://views.whatilearened.today/views/github/LERUfic/LERUfic.svg)
 
 </p>
 </details>
