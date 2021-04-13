@@ -53,10 +53,17 @@ I like programming since 2nd grade junior high school where I made simple antivi
 </details>
 
 <details>
-  <summary>Intern</summary>
+  <summary>Intern & Job</summary>
   <br />
   <ul>
-    <li>System Engineer Intern at DPTSI Institut Teknologi Sepuluh Nopember</li>
+    <li>Intern</li>
+    <ul>
+      <li>System Engineer Intern @ DPTSI Institut Teknologi Sepuluh Nopember</li>
+    </ul>
+    <li>Job</li>
+    <ul>
+      <li>Backend Engineer @ PT. Inosoft Trans Sistem</li>
+    </ul>
   </ul>
 </details>
 <details>
