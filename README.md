@@ -8,7 +8,7 @@
 <a href="https://facebook.com/aguelsatria" alt="Facebook"><img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/assets/facebook-box-fill.svg"> Facebook</a>
   |<a href="https://twitter.com/aguelsatria98" alt="Twitter"><img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/assets/twitter-fill.svg"> Twitter</a> 
   | <a href="https://www.linkedin.com/in/aguelsatria/" alt="Linkedin"><img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/assets/linkedin-box-fill.svg"> Linkedin</a> 
-  | <a href="mailto:contact@aguelsatria.web.id" alt="Email"><img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/assets/mail-fill.svg"> Email</a> 
+  | <a href="mailto:aguelsw@gmail.com" alt="Email"><img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/assets/mail-fill.svg"> Email</a> 
   | <a href="https://aguelsatria.web.id" alt="My Website"><img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/assets/global-fill.svg">My Website</a> 
 </p>
 <br />
