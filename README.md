@@ -71,7 +71,8 @@ I like programming since 2nd grade junior high school where I made simple antivi
 <p>
   
 ![My github stats](https://github-readme-stats.vercel.app/api?username=LERUfic&show_icons=true&count_private=true&theme=flag-india)  
-![ViewCount](https://views.whatilearened.today/views/github/LERUfic/LERUfic.svg)
+![ViewCount](https://views.whatilearened.today/views/github/LERUfic/LERUfic.svg)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=LERUfic&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </p>
 </details>
