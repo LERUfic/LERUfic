@@ -25,7 +25,7 @@
 <details>
     <summary>History:</summary>
 <p align="center">
-I like programming since 2nd grade junior high school where I made simple antivirus using md5 and password manager. Those programs I created using visual basic 6.0. Later my friend introduced me with garuda OS. It's one of the linux distro with built-in wine to run windows's programs. Then I learned using linux from some books because in my country that time the internet is so pricey. Installing ubuntu from CD and tried a lot of things. And in my high school I learned C, pascal, html-php and tried dual-booted my laptop with windows and ubuntu. In my last year of high school I am totally using linux as my main OS (linux mint) until my 3rd year of college before switching to macOS (UNIX for life).
+I like programming since 2nd grade junior high school where I made simple antivirus using md5 and alse created a password manager. Those programs I created using visual basic 6.0. Later my friend introduced me with garuda OS. It's one of the linux distro with built-in wine to run windows's programs. Then I learned using linux from some books because in my country that time the internet is so pricey. Then installed ubuntu from CD and tried a lot of things. And in my high school I learned C, pascal, html-php and tried dual-booted my laptop with windows and ubuntu. In my last year of high school I am totally using linux as my main OS (linux mint) until my 3rd year of college before switching to macOS (UNIX for life).
 </p>
 </details>
 
