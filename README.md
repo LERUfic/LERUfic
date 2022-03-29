@@ -13,14 +13,14 @@
 </p>
 <br />
 <br />
-<details>
+<!-- <details>
   <summary><b><u>IMPORTANT!!!</u></b></summary>
 <p align="center">
     Every commit in this account is dedicated to Megumi Kato and Tomoya Aki from Saenai Heroine no Sodatekata. Because of them, now I have found a reason to stay alive in this world even for 1 second.
   <img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/assets/mpv-shot0043.jpg" alt="Together">
   <img src="https://raw.githubusercontent.com/LERUfic/LERUfic/master/assets/MegumiKato.jpg" alt="Goddess">  
 </p>
-</details>
+</details> -->
 
 <details>
     <summary>History:</summary>
