@@ -61,7 +61,8 @@ I like programming since 2nd grade junior high school where I made simple antivi
     </ul>
     <li>Job</li>
     <ul>
-      <li>Backend Engineer @ PT. Inosoft Trans Sistem</li>
+      <li>2022-now Site Reliability Engineer @ Ajaib</li>
+      <li>2020-2022 Backend Engineer @ PT. Inosoft Trans Sistem</li>
     </ul>
   </ul>
 </details>
